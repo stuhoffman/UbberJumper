@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B14FA389-317B-4E2A-BC50-13D0A482B972</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UberJump</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>659a7d82-c8b1-4121-a15b-05f82762188a++8216</key>
+		<string>svn+ssh://www.hoffmanswebsite.com/SVNrep/TRAINING/branches/Branch1</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RayWenderlich/UberJump/UberJump.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>659a7d82-c8b1-4121-a15b-05f82762188a++8216</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>659a7d82-c8b1-4121-a15b-05f82762188a++8216</key>
+		<string>svn+ssh://www.hoffmanswebsite.com/SVNrep</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://www.hoffmanswebsite.com/SVNrep/TRAINING/branches/Branch1/RayWenderlich/UberJump/UberJump.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>659a7d82-c8b1-4121-a15b-05f82762188a++8216</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>659a7d82-c8b1-4121-a15b-05f82762188a++8216</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Branch1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
